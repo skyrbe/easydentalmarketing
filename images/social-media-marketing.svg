@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>social-media-marketing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="118.623047%" y1="137.338867%" x2="-10.1757813%" y2="-25.6298828%" id="linearGradient-1">
+            <stop stop-color="#FFA8E8" offset="0%"></stop>
+            <stop stop-color="#FFE6E6" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-97.5%" y="-108.3%" width="295.0%" height="316.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.151223776 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-redesign" transform="translate(-220.000000, -1152.000000)">
+            <g id="Group-10">
+                <g id="What-we-do" transform="translate(70.000000, 638.000000)">
+                    <g id="expertise" transform="translate(43.000000, 514.000000)">
+                        <g id="social-media-marketing" transform="translate(107.000000, 0.000000)">
+                            <circle id="Oval" fill="url(#linearGradient-1)" cx="40" cy="40" r="40"></circle>
+                            <g id="mountains" filter="url(#filter-2)" transform="translate(21.000000, 20.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                <path d="M39.8021445,34.0815043 L34.6148122,26 L28,26 L32.3213024,32.7322047 C32.9509986,33.7133691 33.0805398,34.9203697 32.7004471,36 L38.7626559,36 C39.2157339,36 39.6324771,35.7509767 39.8492216,35.3510783 C40.065966,34.95118 40.0479566,34.4639329 39.8021445,34.0815043 Z" id="Path"></path>
+                                <path d="M27.7789994,24 L34,24 L30.0886974,17.5655896 C29.8741597,17.2129241 29.5059986,17 29.1107975,17 C28.7152992,17 28.3471381,17.2129241 28.1328976,17.5655896 L26,21.0739489 L27.7789994,24 Z" id="Path"></path>
+                                <path d="M10,19 L20.4818693,19 L16.3910829,12.5225227 L16.3910829,9.21641345 L24.8498778,9.21641345 C25.3041811,9.21641345 25.7159028,8.94302998 25.9006196,8.51900055 C26.0853364,8.09497113 26.0083955,7.59951987 25.7044498,7.25471463 L23.3724372,4.60820673 L25.7044498,1.96169882 C26.0083955,1.61689358 26.0853364,1.12144232 25.9006196,0.697412896 C25.7159028,0.273383474 25.3041811,0 24.8498778,0 L15.2410815,0 C14.605879,0 14.0907864,0.526360641 14.0907864,1.17545881 L14.0907864,12.5225227 L10,19 Z" id="Path"></path>
+                                <path d="M30.8532258,35.4002893 C31.0641697,35.0307173 31.0466423,34.5804206 30.807716,34.2267 L22.5421591,22 L8.45780998,22 L0.192560534,34.2269935 C-0.0466731801,34.5804206 -0.0642005691,35.0307173 0.146743292,35.4002893 C0.357687232,35.7698614 0.763585117,36 1.20453778,36 L29.7957388,36 C30.2366915,36 30.6422818,35.7698614 30.8532258,35.4002893 L30.8532258,35.4002893 Z" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

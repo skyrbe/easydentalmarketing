@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>analysis</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="12.629094%" y1="2.33397313%" x2="117.1836%" y2="130.121595%" id="linearGradient-1">
+            <stop stop-color="#9CB3FF" offset="0%"></stop>
+            <stop stop-color="#B0FFE9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.629094%" y1="2.33397313%" x2="117.1836%" y2="130.121595%" id="linearGradient-2">
+            <stop stop-color="#59DBB0" offset="0%"></stop>
+            <stop stop-color="#FEFFB5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="40" cy="40" r="40"></circle>
+        <circle id="path-5" cx="40" cy="40" r="40"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-redesign" transform="translate(-981.000000, -1151.000000)">
+            <g id="Group-10">
+                <g id="What-we-do" transform="translate(70.000000, 638.000000)">
+                    <g id="content-management" transform="translate(800.000000, 513.000000)">
+                        <g id="analysis" transform="translate(111.000000, 0.000000)">
+                            <g id="uiObjectBg" fill="url(#linearGradient-2)" fill-rule="nonzero">
+                                <circle id="ui-path-3" cx="40" cy="40" r="40"></circle>
+                            </g>
+                            <g id="uiObjectDesktop-Clipped">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="ui-path-3"></g>
+                                <g id="uiObjectDesktop" mask="url(#mask-4)">
+                                    <g transform="translate(27.012987, 30.129870)" id="Group">
+                                        <g>
+                                            <g id="ui-Rectangle-14">
+                                                <g id="ui-path-5-link" fill="#000000" fill-rule="nonzero">
+                                                    <rect id="ui-path-5" x="0" y="0" width="28.0519481" height="19.7402597" rx="2"></rect>
+                                                </g>
+                                                <g id="ui-path-5-link" fill="#FFFFFF">
+                                                    <rect id="ui-path-5" x="0" y="0" width="28.0519481" height="19.7402597" rx="2"></rect>
+                                                </g>
+                                            </g>
+                                            <path d="M2.07792208,0 L25.974026,0 C27.1216306,-2.10811558e-16 28.0519481,0.930317403 28.0519481,2.07792208 L28.0519481,5.19480519 L0,5.19480519 L0,2.07792208 C-1.40541039e-16,0.930317403 0.930317403,2.10811558e-16 2.07792208,0 Z" id="ui-Rectangle-14-Copy-2" fill="#D6E5FF"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="uiObjectPhone-Clipped">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="ui-path-3"></g>
+                                <g id="uiObjectPhone" mask="url(#mask-6)">
+                                    <g transform="translate(41.558442, 23.896104)" id="Group">
+                                        <g>
+                                            <rect id="ui-Rectangle-14-Copy" fill="#3FAE89" fill-rule="nonzero" x="0" y="0" width="17.6623377" height="20.7792208" rx="2"></rect>
+                                            <circle id="Oval-17" fill="#FFFFFF" fill-rule="nonzero" cx="8.83116883" cy="16.1038961" r="1.55844156"></circle>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

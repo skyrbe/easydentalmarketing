@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>video</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.79567921%" y1="-11.5959074%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFAF73" offset="0%"></stop>
+            <stop stop-color="#FFFECC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-redesign" transform="translate(-603.000000, -1152.000000)">
+            <g id="Group-10">
+                <g id="What-we-do" transform="translate(70.000000, 638.000000)">
+                    <g id="pay-per-click" transform="translate(417.000000, 514.000000)">
+                        <g id="video" transform="translate(116.000000, 0.000000)">
+                            <circle id="animObjectBg" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="40" cy="40" r="40"></circle>
+                            <g id="animObjectFrame" transform="translate(28.051948, 28.051948)">
+                                <g id="anim-Rectangle-24">
+                                    <g id="anim-path-3-link" fill="#000000" fill-rule="nonzero">
+                                        <rect id="anim-path-3" x="0" y="0" width="23.8961039" height="23.8961039" rx="4"></rect>
+                                    </g>
+                                    <g id="anim-path-3-link" fill="#FFFFFF">
+                                        <rect id="anim-path-3" x="0" y="0" width="23.8961039" height="23.8961039" rx="4"></rect>
+                                    </g>
+                                </g>
+                                <path d="M4.15584416,-5.42101086e-20 L19.7402597,2.11208215e-21 C22.0354691,-4.21625808e-16 23.8961039,1.86063481 23.8961039,4.15584416 L23.8961039,5.19480519 L0,5.19480519 L0,4.15584416 C-2.81082078e-16,1.86063481 1.86063481,4.21630032e-16 4.15584416,-5.42101086e-20 Z" id="anim-Rectangle-24-Copy-2" fill="#FFF3E5" fill-rule="nonzero"></path>
+                                <path d="M4.15584416,18.7012987 L19.7402597,18.7012987 C22.0354691,18.7012987 23.8961039,20.5619335 23.8961039,22.8571429 L23.8961039,23.8961039 L0,23.8961039 L0,22.8571429 C-2.81082078e-16,20.5619335 1.86063481,18.7012987 4.15584416,18.7012987 Z" id="anim-Rectangle-24-Copy-3" fill="#FFF3E5" fill-rule="nonzero" transform="translate(11.948052, 21.298701) scale(-1, 1) rotate(-180.000000) translate(-11.948052, -21.298701) "></path>
+                            </g>
+                            <g id="animObjectPlay" transform="translate(39.480519, 22.857143)" fill-rule="nonzero">
+                                <circle id="anim-Oval-21" fill="#FF9147" cx="10.3896104" cy="10.3896104" r="10.3896104"></circle>
+                                <path d="M8.31168831,8.31173922 L8.31168831,13.0508996 C8.31168831,13.624702 8.77684701,14.0898607 9.35064935,14.0898607 C9.5801635,14.0898607 9.80321816,14.013863 9.98498807,13.8737329 L13.0586916,11.5041526 C13.5131299,11.153817 13.5975217,10.5014189 13.2471861,10.0469807 C13.1927092,9.97631597 13.1293564,9.91296316 13.0586916,9.85848628 L9.98498807,7.48890606 C9.53054987,7.13857045 8.87815179,7.22296229 8.52781619,7.6774005 C8.38768608,7.85917041 8.31168831,8.08222507 8.31168831,8.31173922 Z" id="anim-Path-71" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

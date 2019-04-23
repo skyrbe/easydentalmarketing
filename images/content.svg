@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>content</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="80.2154694%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF8989" offset="0%"></stop>
+            <stop stop-color="#FFDDC5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-redesign" transform="translate(-981.000000, -881.000000)">
+            <g id="Group-10">
+                <g id="What-we-do" transform="translate(70.000000, 638.000000)">
+                    <g id="content-management" transform="translate(800.000000, 243.000000)">
+                        <g id="content" transform="translate(111.000000, 0.000000)">
+                            <circle id="brandObjectBg" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="40" cy="40" r="40"></circle>
+                            <g id="brandObjectFrame" transform="translate(28.051948, 28.051948)">
+                                <g id="brand-Rectangle-24">
+                                    <g id="brand-path-3-link" fill="#000000" fill-rule="nonzero">
+                                        <rect id="brand-path-3" x="0" y="0" width="23.8961039" height="23.8961039" rx="4"></rect>
+                                    </g>
+                                    <g id="brand-path-3-link" fill="#FFFFFF">
+                                        <rect id="brand-path-3" x="0" y="0" width="23.8961039" height="23.8961039" rx="4"></rect>
+                                    </g>
+                                </g>
+                                <rect id="brand-Rectangle-24-Copy" fill="#FFE2E0" fill-rule="nonzero" x="5.19480519" y="5.19480519" width="13.5064935" height="13.5064935" rx="4"></rect>
+                            </g>
+                            <g id="brandObjectText" transform="translate(37.402597, 18.701299)" fill="#E86A63" font-family="Montserrat-Black, Montserrat" font-size="24" font-weight="700">
+                                <text id="A">
+                                    <tspan x="0" y="23.1931402">A</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
