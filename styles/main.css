@@ -4,7 +4,7 @@ body {
 
 .hero-bottom {
   position: absolute;
-  bottom: 0;
+  top: -80px;
   right: 0;
   width: 525px;
 }

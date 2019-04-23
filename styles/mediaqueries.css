@@ -110,11 +110,6 @@
 
 @media (min-width: 992px) {
   .hero-bottom {
-    -webkit-transform: translateX(calc(-50% + 277px));
-    -moz-transform: translateX(calc(-50% + 277px));
-    -ms-transform: translateX(calc(-50% + 277px));
-    -o-transform: translateX(calc(-50% + 277px));
-    transform: translateX(calc(-50% + 277px));
     width: 887px;
   }
 
