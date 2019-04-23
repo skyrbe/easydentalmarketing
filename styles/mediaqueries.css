@@ -79,6 +79,33 @@
   .service-detail p {
     display: block;
   }
+
+  section.home-clients {
+    padding: 0 0 135px;
+    overflow: initial;
+  }
+
+  .section-title.clients-title h2 {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+    left: 0;
+  }
+
+  .section-title.clients-title h3 {
+    text-align: left;
+  }
+
+  .section-title.clients-title h3::before {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+    left: 0;
+  }
 }
 
 @media (min-width: 992px) {
@@ -110,7 +137,7 @@
   }
 
   section.home-services {
-    padding: 0 0 240px;
+    padding: 0 0 30px;
   }
 
   .services-section {
