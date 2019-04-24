@@ -6,6 +6,10 @@ section {
   position: relative;
 }
 
+.full-width {
+  width: 100%;
+}
+
 .hero-bottom {
   position: absolute;
   top: 240px;
@@ -167,12 +171,12 @@ section.home-services {
 }
 
 .service-detail p {
-  display: none;
   margin-top: 15px;
   font-size: 12px;
   line-height: 18px;
   letter-spacing: 1.38px;
   color: #8c93bd;
+  text-align: center;
 }
 
 section.home-clients {
@@ -214,4 +218,10 @@ section.home-clients {
   color: #4b527c;
   font-size: 14px;
   margin-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.page-ranking-content span {
+  font-weight: 700;
 }
