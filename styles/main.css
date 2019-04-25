@@ -233,6 +233,69 @@ section.home-clients {
   background: -webkit-linear-gradient(-45deg, rgba(48, 35, 174, 1) 0%, rgba(200, 109, 215, 1) 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(135deg, rgba(48, 35, 174, 1) 0%, rgba(200, 109, 215, 1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:dximagetransform.microsoft.gradient(startColorstr='#3023ae', endColorstr='#c86dd7', GradientType=1); /* IE6-9 fallback on horizontal gradient */
-  -webkit-clip-path: polygon(0 0, 100% 18%, 100% 100%, 0% 100%);
-  clip-path: polygon(0 0, 100% 18%, 100% 100%, 0% 100%);
+}
+
+.seo-title h1 {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  width: 100%;
+  text-align: center;
+  font-size: 32px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.seo-title .page-ranking-content {
+  color: #fff;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  text-align: justify;
+  line-height: 34px;
+}
+
+.section-title.seo-title {
+    padding: 70px 0 50px;
+}
+
+.form-container {
+  border-radius: 10px;
+  background: #FFF;
+  box-shadow: 0 0 32px rgba(0,0,0,0.22);
+  padding: 30px;
+  height: 392px;
+  position: relative;
+}
+
+.form-container h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: black !important;
+  font-size: 22px !important;
+  opacity: 1 !important;
+  text-align: center;
+}
+
+.form-container .form-group {
+  margin-bottom: 30px;
+}
+
+.form-container .form-control {
+  height: 48px;
+  border-radius: 0;
+  border: 1px solid #DDDDDD;
+  background: #F7F7F7;
+}
+
+.form-container .form-submit {
+  background: #6A03D9;
+  color: #FFF;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  height: 48px;
+  border-radius: 0;
+  border: 0;
 }

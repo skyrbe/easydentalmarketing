@@ -124,6 +124,37 @@
     padding-left: 0;
     padding-right: 0;
   }
+
+  .seo-section {
+    -webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 82%);
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 82%);
+  }
+
+  .seo-title h1 {
+    font-size: 54px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+  }
+
+  .seo-title .page-ranking-content {
+    text-align: left;
+  }
+  .form-holder::before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 330px;
+    left: 0;
+    top: -20px;
+    background: #F7F7F7;
+    box-shadow: 0 0 32px rgba(0,0,0,0.22);
+    border-radius: 10px;
+  }
+
+  .section-title.seo-title {
+      padding: 70px 0 130px;
+  }
 }
 
 @media (min-width: 992px) {
