@@ -225,3 +225,14 @@ section.home-clients {
 .page-ranking-content span {
   font-weight: 700;
 }
+
+.seo-section {
+  position: relative;
+  background: rgb(48, 35, 174); /* Old browsers */
+  background: -moz-linear-gradient(-45deg, rgba(48, 35, 174, 1) 0%, rgba(200, 109, 215, 1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, rgba(48, 35, 174, 1) 0%, rgba(200, 109, 215, 1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, rgba(48, 35, 174, 1) 0%, rgba(200, 109, 215, 1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#3023ae', endColorstr='#c86dd7', GradientType=1); /* IE6-9 fallback on horizontal gradient */
+  -webkit-clip-path: polygon(0 0, 100% 18%, 100% 100%, 0% 100%);
+  clip-path: polygon(0 0, 100% 18%, 100% 100%, 0% 100%);
+}
