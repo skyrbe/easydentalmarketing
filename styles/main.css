@@ -299,3 +299,9 @@ section.home-clients {
   border-radius: 0;
   border: 0;
 }
+
+.footer-cp{
+  background: #fff;
+  padding: 25px;
+  font-size: 14px;
+}
